@@ -13,8 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "current-input": "^1.1.0",
-    "react": "^16.0.0",
-    "react-dom": "^15.1.0",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
     "react-router": "^4.0.0"
   },
   "devDependencies": {
